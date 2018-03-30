@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  padding-top: 15%;
+  background-color: black;
+  font-family: 'Bitter', serif;
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+}
+
+#bill{
+  color: #ed5e5e;
+}
+
+#tip {
+  color: #4286f4;
+}
+
+p{
+  color: white;
+  font-size: 30px;
+}
+
+#tipAmount, #totalBill{
+  position: relative;
+  top:20px;
+}
+
+input{
+  max-width: 200px;
+}
